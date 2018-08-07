@@ -17,7 +17,7 @@ library(caret);library(GGally);library(elasticnet);library(corrplot)
 ```
 
 
-#Import Data
+#Import/load Data
 ```{r}
 Data <- read.csv("https://raw.githubusercontent.com/gketem/BankingROA/master/BankMetrics.csv", stringsAsFactors = F)
 ```
