@@ -10,3 +10,7 @@ Arbitrary Filtering: Entities/Banks with less than 50% predictors available Pred
 Imputation, Transformation, Sampling: Stratified median imputation based on time period strata As part of the original design, external variables, were evaluated for near zero variance and consequently dropped For ROAA (our response) 100 was added, this allows negatives to be log transformed Feature engineering, divided loans by deposits for effect Divided 70/30 training/test, used 10-fold CV with 10 repetitions on the train
 
 Tuned Models: Multivariate Adaptive Regression Spline (MARS) Elastic Net SVM (Radial and Linear) Partial Least Squares (PLS) Ridge Regression Linear Model with PCA Pre-Processing Linear Regression
+
+## Bank_ROAA Rmd code is Final code
+## Tunning Rmd code is process of tunning and selection
+## The Data set need not be downloaded since codes has link to github saved csv
