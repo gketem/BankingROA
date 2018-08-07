@@ -12,7 +12,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(cache=TRUE)
-library(lattice);library(ggcorrplot);library(ggplot2);library(dplyr)
+library(lattice);library(ggcorrplot);library(ggplot2);library(dplyr);library(lmtest)
 library(caret);library(GGally);library(elasticnet);library(corrplot)
 ```
 
