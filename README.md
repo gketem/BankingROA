@@ -12,5 +12,5 @@ Imputation, Transformation, Sampling: Stratified median imputation based on time
 Tuned Models: Multivariate Adaptive Regression Spline (MARS) Elastic Net SVM (Radial and Linear) Partial Least Squares (PLS) Ridge Regression Linear Model with PCA Pre-Processing Linear Regression
 
 ## Bank_ROAA Rmd code is Final code
-## Tunning Rmd code is process of tunning and selection
-## The Data set need not be downloaded since codes has link to github saved csv
+## Tunning Rmd code is for process of tunning and selection
+## Data is linked inside codes 
